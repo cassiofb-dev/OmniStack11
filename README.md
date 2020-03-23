@@ -3,7 +3,7 @@
 
 ---
 
-Repositório onde será implementado o aprendizado da 11º edição da semana [OmniStack](https://rocketseat.com.br/week/inscricao/11.0).
+Repositório onde será implementado o meu aprendizado durante a 11º edição da semana [OmniStack](https://rocketseat.com.br/week/inscricao/11.0).
 ## Dia 0
 Aulas gratuitas e de qualidade para aprender [JavaScript](https://rocketseat.com.br/starter).
 
