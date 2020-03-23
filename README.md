@@ -9,7 +9,7 @@ Aulas gratuitas e de qualidade para aprender [JavaScript](https://rocketseat.com
 
 ## Dia 1
 
- 1. Apresentar aplicação<br>O nome da aplicação é **The Hero**, ela foi idealizada para facilitar e popularizar doações para ONGs.
+ 1. Apresentar aplicação<br>O nome da aplicação é **The Hero**, e tem como objetivo facilitar e popularizar doações para ONGs.
  2. Configurar o ambiente OmniStack<br>Windows: [chocolatey](https://chocolatey.org/)<br>macOS: [Homebrew](https://brew.sh/index_pt-br)<br>VS Code: [Visual Studio Code](https://code.visualstudio.com/)
  3. Back-end X Front-end
  4. Criar projeto com [Node.js](https://nodejs.org/en/)
