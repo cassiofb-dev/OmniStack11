@@ -25,3 +25,4 @@ Aulas gratuitas e de qualidade para aprender [JavaScript](https://rocketseat.com
 # Dia 3
 # Dia 4
 # Dia 5
+> Ajudinha do [StackEdit](https://stackedit.io/)
