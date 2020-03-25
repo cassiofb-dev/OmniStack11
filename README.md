@@ -16,11 +16,6 @@ Aulas gratuitas e de qualidade para aprender [JavaScript](https://rocketseat.com
  5. Entender [React](https://reactjs.org/) e SPA
  6. Criar projeto com [reactjs](https://github.com/facebook/react/)
  7. Entender sobre [React Native](https://reactnative.dev/) e [Expo](https://expo.io/)
- ## Na prática
- Código
- ![enter image description here](https://raw.githubusercontent.com/cassiofb-dev/OmniStack11/master/img/index_node.png)
- Resultado
- ![enter image description here](https://raw.githubusercontent.com/cassiofb-dev/OmniStack11/master/img/index_node_result.png)
 # Dia 2
  1. [Node.js](https://nodejs.org/en/) e [Express](https://expressjs.com/)<br>Métodos HTTP<br>Tipos de parâmetros
  2. Utilizando o [Insomnia](https://insomnia.rest/)
@@ -31,9 +26,6 @@ Aulas gratuitas e de qualidade para aprender [JavaScript](https://rocketseat.com
  7. Construção do back-end
  8. Adicionando módulo CORS
  9. Enviando back-end ao [GitHub](https://github.com/)
- 
---- 
-
 ## Entidades
 
  - ONG
@@ -46,31 +38,6 @@ Aulas gratuitas e de qualidade para aprender [JavaScript](https://rocketseat.com
  - Deletar casos
  - Listar casos de uma ONG
  - Listar todos os casos
-
-## Na prática
-
- Testando o express
-![enter image description here](https://raw.githubusercontent.com/cassiofb-dev/OmniStack11/master/img/insomnia_test.png)
-
----
-
-Registrando ONGs
-![enter image description here](https://raw.githubusercontent.com/cassiofb-dev/OmniStack11/master/img/ong_put.png)
-
----
-
-Acessando a ONGs
-![enter image description here](https://raw.githubusercontent.com/cassiofb-dev/OmniStack11/master/img/ong_get.png)
-
----
-
-Paginação de casos
-![enter image description here](https://raw.githubusercontent.com/cassiofb-dev/OmniStack11/master/img/final_2.png)
-
----
-
-
-
 # Dia 3
 # Dia 4
 # Dia 5
