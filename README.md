@@ -39,6 +39,20 @@ Aulas gratuitas e de qualidade para aprender [JavaScript](https://rocketseat.com
  - Listar casos de uma ONG
  - Listar todos os casos
 # Dia 3
+1. Limpando a estrutura
+2. Conceitos do React:
+	1. Componentes
+	2. JSX
+	3. Propriedades
+	4. Estado
+	5. Imutabilidade
+3. Página de Login
+4. Configurando rotas
+5. Cadastro de ONGs
+6. Listagem de casos
+7. Cadastro de um novo caso
+8. Conectando a aplicação api
+9. Enviar projeto ao github
 # Dia 4
 # Dia 5
 > Ajudinha do [StackEdit](https://stackedit.io/)
