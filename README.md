@@ -41,11 +41,11 @@ Aulas gratuitas e de qualidade para aprender [JavaScript](https://rocketseat.com
 # Dia 3
 1. Limpando a estrutura
 2. Conceitos do React:
-	1. Componentes
-	2. JSX
-	3. Propriedades
-	4. Estado
-	5. Imutabilidade
+	- Componentes
+	- JSX
+	- Propriedades
+	- Estado
+	- Imutabilidade
 3. Página de Login
 4. Configurando rotas
 5. Cadastro de ONGs
@@ -57,17 +57,17 @@ Aulas gratuitas e de qualidade para aprender [JavaScript](https://rocketseat.com
 1. Instalando o Expo
 2. Criando projeto React Native
 3. Executando o projeto
-	1. No celular
-	2. No emulador
-	3. Expo Snack
+	- No celular
+	- No emulador
+	- Expo Snack
 4. Diferenças para ReactJS
-	1. Elementos HTML
-	2. Semântica
-	3. Estilização
-		1. Flexbox
-		2. Propriedades
-		3. Herança de estilos
-		4. Estilização própria
+	- Elementos HTML
+	- Semântica
+	- Estilização
+		- Flexbox
+		- Propriedades
+		- Herança de estilos
+		- Estilização própria
 5. Estrutura de Pastas
 6. Ícone e Splash Screen
 7. Configurando Navegação
@@ -77,4 +77,23 @@ Aulas gratuitas e de qualidade para aprender [JavaScript](https://rocketseat.com
 11. Conexão com a API
 12. Eviando ao GitHub
 # Dia 5
+1. Adicionando validação
+2. Adicionando testes
+	- Porque fazer testes?
+	- TDD
+	- Configurando o [JEST](https://jestjs.io/)
+	- Tipos de testes
+	- Configurando o banco de testes
+	- Instalando [supertest](https://github.com/visionmedia/supertest)
+	- Testando rotas de autenticação
+3. Deploy
+	- Alternativas
+	- Qual escolher
+4. Estudos daqui pra frente
+	- Padrões de código: [ESLint](https://eslint.org/), [Prettier](https://prettier.io/)
+	- Autenticação [JWT](https://jwt.io/)
+	- [Styled components](https://styled-components.com/)
+5. Dicas para aproveitar melhor
+	- GitHub
+	- Linkedin
 > Ajudinha do [StackEdit](https://stackedit.io/)
