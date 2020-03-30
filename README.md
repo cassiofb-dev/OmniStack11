@@ -54,5 +54,27 @@ Aulas gratuitas e de qualidade para aprender [JavaScript](https://rocketseat.com
 8. Conectando a aplicação api
 9. Enviar projeto ao github
 # Dia 4
+1. Instalando o Expo
+2. Criando projeto React Native
+3. Executando o projeto
+	1. No celular
+	2. No emulador
+	3. Expo Snack
+4. Diferenças para ReactJS
+	1. Elementos HTML
+	2. Semântica
+	3. Estilização
+		1. Flexbox
+		2. Propriedades
+		3. Herança de estilos
+		4. Estilização própria
+5. Estrutura de Pastas
+6. Ícone e Splash Screen
+7. Configurando Navegação
+8. Página de Casos
+9. Detalhe do Caso
+10. Abrindo Whatsapp e Email
+11. Conexão com a API
+12. Eviando ao GitHub
 # Dia 5
 > Ajudinha do [StackEdit](https://stackedit.io/)
