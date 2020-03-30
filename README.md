@@ -96,4 +96,7 @@ Aulas gratuitas e de qualidade para aprender [JavaScript](https://rocketseat.com
 5. Dicas para aproveitar melhor
 	- GitHub
 	- Linkedin
+	
+---
+
 > Ajudinha do [StackEdit](https://stackedit.io/)
