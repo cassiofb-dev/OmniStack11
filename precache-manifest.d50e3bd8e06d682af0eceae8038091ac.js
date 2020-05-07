@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "b986234920c994184556853c1c4c6d54",
+    "revision": "051a9460665474245e07482a9f7aad5c",
     "url": "/OmniStack11/index.html"
   },
   {
-    "revision": "b90edb2375a396e5255d",
+    "revision": "567ffdb9266be2bed63a",
     "url": "/OmniStack11/static/css/main.8f8c8aff.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/OmniStack11/static/js/2.b711ed42.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "b90edb2375a396e5255d",
-    "url": "/OmniStack11/static/js/main.c7e12ae0.chunk.js"
+    "revision": "567ffdb9266be2bed63a",
+    "url": "/OmniStack11/static/js/main.0a3a60f8.chunk.js"
   },
   {
     "revision": "2db90c56163e2092d07c",
